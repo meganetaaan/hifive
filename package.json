@@ -1,0 +1,26 @@
+{
+  "name": "hifive",
+  "version": "1.0.0",
+  "description": "hifivemain ==========",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/meganetaaan/hifive.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meganetaaan/hifive/issues"
+  },
+  "homepage": "https://github.com/meganetaaan/hifive#readme",
+  "devDependencies": {
+    "rollup": "^0.51.8"
+  }
+}
