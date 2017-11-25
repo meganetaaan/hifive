@@ -1,1 +1,0 @@
-java -cp bin/rhino/js.jar org.mozilla.javascript.tools.shell.Main -modules bin/lib  -modules bin/node_modules -modules bin/rhino -modules bin jsdoc.js ../../../../src/main/webapp/src ../../../../src/main/webapp/srcJsdoc -d ../../src/main/webapp/doc -t ../hifive-apidoc-tmpl
